@@ -9,7 +9,8 @@ google colab by following the link:
 
 https://colab.research.google.com/github/rsmattos/Basic_python_toturial
 
-And open one of the notebooks. When using colab, you'll have to upload the files:
+and open one of the notebooks. When using colab, you'll have to log into a google account and 
+upload the files:
 - populations.dat
 - plot_pop.py
 
